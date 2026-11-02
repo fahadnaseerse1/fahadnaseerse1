@@ -23,7 +23,7 @@ Here are the core programming languages, frameworks, and developer tools I utili
 ### 📬 How to Reach Me?
 I am looking forward to connecting with fellow developers, engineers, and mentors as I take the next steps in my software engineering career. Let's stay in touch:
 
-- 💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/fahad-naseer-se)
+- 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://linkedin.com)
 - 📧 **Email:** [fahadkhokhar097@gmail.com](mailto:fahadkhokhar097@gmail.com)
 
 ---
